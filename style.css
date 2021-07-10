@@ -1163,77 +1163,6 @@ a{
 .m a:hover{
     color: #3498db;
 }
-/*footer-bottom-left*/
-/* .footer-bottom-left{
-    width: 33.3%;
-    padding: 20px 0;
-}
-
-.footer-bottom-left img{
-    width: 150px;
-}
-
-.footer-bottom-left p span{
-    color: #3498db;
-}
-.footer-bottom-left p {
-    color: #fff;
-    text-align: center;
-    width: 350px;
-    margin-top: 22px;
-}
-
-.footer-bottom-left ul{
-    list-style: none;
-    text-align: right;
-    line-height: 90px;
-}
-.footer-bottom-left ul li{
-    display: inline-block;
-}
-.footer-bottom-left ul li a{
-    color: #fff;
-     width: 40px;
-    height: 40px;
-    background: #3498db;
-    display: block;
-    padding: 10px;
-    text-align: center;
-    border-radius: 50%;
-    margin-left: 10px;
-    transition: .5s;
-    line-height: 20px;
-
-}
-.footer-bottom-left ul li a:hover{
-    background: gray;
-}
-.aro {
-    text-align: right;
-    position: relative;
-    left: 80px;
-}
-.up-aro {
-    color: #fff;
-    text-align: right;
-    background: #3498db;
-    height: 40px;
-    width: 40px;
-    display: inline-block;
-    text-align: center;
-    line-height: 40px;
-    border-radius: 50%;
-} */
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1259,7 +1188,7 @@ a{
 }
 .footer-bottom-left3 p {
     color: #fff;
-    /* text-align: center; */
+    text-align: center;
     width: 350px;
     margin-top: 22px;
 }
